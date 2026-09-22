@@ -1,0 +1,2 @@
+:HL["/lmvpn/_next/static/chunks/0x58lln_8h9ii.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"JcU5HLFZhtFk1-kh5kPRp"}

@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://lmvpn.github.io/lmvpn/sitemap.xml
